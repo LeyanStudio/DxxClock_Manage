@@ -3,7 +3,7 @@
 
 ####
 
-Specially for sichuan Nanchong middle school for youth learning and research and development of the website, this website greatly reduces the statistical time of teachers, just import the class and add weekly tasks, can automatically complete the personnel to judge
+Specially for Sichuan middle school for youth learning and research and development of the website, this website greatly reduces the statistical time of teachers, just import the class and add weekly tasks, can automatically complete the personnel to judge
 
 
 #### Software Architecture
