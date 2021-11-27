@@ -1,0 +1,4 @@
+[submodule "localDxx"]
+	url  = https://gitee.com/Leyan-studio/DxxClock_Manage
+	path = localDxx
+
