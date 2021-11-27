@@ -51,4 +51,4 @@ Then enter [**localhost.kayanxin.cn**] in the domain name box of the Add website
 1. Developed by Leyan, the team manager, and completed this version on 2020-10-12
 2. The style of the website is simple and will be optimized later
 3. Please have a cup of Coffee, it is not easy to develop
-![WeChatPay](IMG_4011(20211127-194405).JPG)![AliPay](IMG_4012(20211127-194414).JPG)
+![WeChatPay](https://images.gitee.com/uploads/images/2021/1127/194548_70c0662b_10095327.jpeg)![AliPay](https://images.gitee.com/uploads/images/2021/1127/194608_f44a2a27_10095327.jpeg)
