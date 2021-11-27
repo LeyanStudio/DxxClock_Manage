@@ -40,4 +40,4 @@
 1.  由团队总管乐炎独自研发，于2020-10-12号将此版本研发完毕
 2.  网站风格比较简约，后续会进行优化
 3.  请各位老铁一杯Coffee吧，开发不易
-![WeChatPay](IMG_4011(20211127-194405).JPG)![AliPay](IMG_4012(20211127-194414).JPG)
+![WeChatPay](https://images.gitee.com/uploads/images/2021/1127/194548_70c0662b_10095327.jpeg)![AliPay](https://images.gitee.com/uploads/images/2021/1127/194608_f44a2a27_10095327.jpeg)
