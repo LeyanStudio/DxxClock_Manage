@@ -1,36 +1,54 @@
-# 青年大学习打卡-管理网站
+# Youthcollege Learning To punch in - manage the website
 
-#### Description
-专门为四川南充的中学针对青年大学习而研发的网站，此网站大大减少了老师们的统计时间，只需导入班级和添加每周任务，即可自动进行人员的完成进行判断
+
+####
+
+Specially for sichuan Nanchong middle school for youth learning and research and development of the website, this website greatly reduces the statistical time of teachers, just import the class and add weekly tasks, can automatically complete the personnel to judge
+
 
 #### Software Architecture
-Software architecture description
 
-#### Installation
+This website uses HTML/CSS/JS/JQ/PHP for development, website functions include grade creation/management, class creation/management, announcement management, task management (that is, weekly learning), punching details view, screening and download, grade/class punching sorting, grade site management and so on, please contact the author for details
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
+#### Installation Tutorial
+
+1. Download the source file
+2. Upload the data to the local VM or server
+3. Bind files and directories with domain names and configure databases for access
+
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Use Nginx (1.18.0), MySQL (5.56.50), PHP (7.2)
+2. V0.1 version of the source code only supports local VMS to use [VMware to create linux-centos vm], in the server to use, please contact the author to obtain the source code (will be updated later)
+3. Add the website domain name to the **hosts** file in the **C:\Windows\System32\drivers\etc** directory on the host
 
-#### Contribution
+` ` `
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+Enter localhost.kayanxin.cn, the Intranet address displayed after the pagoda panel is installed
+
+` ` `
+
+Then enter [**localhost.kayanxin.cn**] in the domain name box of the Add website in the panel.
+4. Do not arbitrarily change the domain name. Otherwise, the automatic update function may be affected
 
 
-#### Gitee Feature
+#### stated
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. This script is only used for study and research, and does not guarantee its legality, accuracy and validity. Please make your own judgment according to the situation, and I do not undertake any warranty responsibility for this.
+2. You must completely delete all content from your computer or mobile phone or any storage device within 24 hours after downloading. I will not be responsible for any incident caused by violation of the rules.
+3. Do not use this script for any commercial or illegal purposes. If you violate the rules, please be responsible for it yourself.
+4. The application of this script has nothing to do with me, and I shall not be responsible for any privacy leakage or other consequences caused thereby.
+5. I am not responsible for any problems caused by any script, including but not limited to any loss and damage caused by script errors.
+6. If any unit or individual thinks that this script may infringe their rights, they should timely notify and provide proof of identity and ownership. I will delete this script after receiving the confirmation of the authentication document.
+7. For all direct or indirect use, anyone viewing this script should read this statement carefully.
+8. I reserve the right to change or supplement this disclaimer at any time, and if you use or copy this script, you will be deemed to have accepted this disclaimer.
+
+
+#### END
+
+1. Developed by Leyan, the team manager, and completed this version on 2020-10-12
+2. The style of the website is simple and will be optimized later
+3. Please have a cup of Coffee, it is not easy to develop
+![WeChatPay](IMG_4011(20211127-194405).JPG)![AliPay](IMG_4012(20211127-194414).JPG)
